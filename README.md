@@ -64,6 +64,6 @@ Deterministic PL/SQL functions built to process variables and return real-time c
 
 ---
 
-## 👥 Group Members & Contributions
+## 👥 Contributors
 
 This project was successfully designed and built by **Wong Sin Yew (Group Leader), Chang Joo Yee, Ng Xue En, Wong Xin Tong**
